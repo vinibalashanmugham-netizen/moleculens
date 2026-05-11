@@ -1,18 +1,14 @@
-# ==========================================
-# requirements.txt
-# pip install -r requirements.txt
-# ==========================================
-rdkit
+rdkit-pypi
 chembl_webresource_client
 xgboost
-scikit-learn
+lightgbm
+catboost
+shap
+statsmodels
+openpyxl
+requests
 pandas
 numpy
-requests
-rapidfuzz
-shap
-fastapi
-uvicorn[standard]
-python-multipart
-openpyxl
-scipy
+scikit-learn
+matplotlib
+seaborn
